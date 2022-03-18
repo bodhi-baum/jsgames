@@ -5,7 +5,7 @@ If you know other sites / games which fit in this category feel free to add them
 Baduk / Weiqi
 * [Besogo](http://yewang.github.io/besogo/) - lightweight javascript go board and sgf editor
 
-Gomoku
+Gomoku / 5 in a row
 * [yihao-gomoku](https://gomoku.yjyao.com/) - Gomoku in HTML-5 with nice graphics
 * [yunzhu-gomoku](https://apps.yunzhu.li/gomoku/) - Another strong Gomoku
 * [Gobang AI](http://gobang.light7.cn/) - Javascript Gobang AI
