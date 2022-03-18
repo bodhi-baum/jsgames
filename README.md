@@ -6,7 +6,7 @@ Baduk / Weiqi
 * [Besogo](http://yewang.github.io/besogo/) - lightweight javascript go board and sgf editor
 
 Gomoku
-*[Gobang AI](http://gobang.light7.cn/) - Javascript Gobang AI
+* [Gobang AI](http://gobang.light7.cn/) - Javascript Gobang AI
 
 Shogi
 * [Carrotflakes](https://carrotflakes.github.io/carrot-shogi/dist/app.html) - Computer-Shogi on the Webbrowser
