@@ -7,6 +7,7 @@ Baduk / Weiqi
 
 Gomoku
 * [yihao-gomoku](https://gomoku.yjyao.com/) - Gomoku in HTML-5 with nice graphics
+* [yunzhu-gomoku](https://apps.yunzhu.li/gomoku/) - Another strong Gomoku
 * [Gobang AI](http://gobang.light7.cn/) - Javascript Gobang AI
 
 Shogi
