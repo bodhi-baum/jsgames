@@ -6,3 +6,5 @@ Baduk / Weiqi
 
 Shogi
 * [Carrotflakes](https://carrotflakes.github.io/carrot-shogi/dist/app.html) - Computer-Shogi on the Webbrowser
+* [Shogimaru](https://shogimaru.com/) - Shogi GUI that runs on a browser
+* 
