@@ -1,5 +1,5 @@
 # jsgames
-This list aims to collect mainly boardgames written in javascript.
+This list aims to collect mainly boardgames written in javascript.<br>
 If you know other sites / games which fit in this category feel free to add them to this list.
 
 Baduk / Weiqi
