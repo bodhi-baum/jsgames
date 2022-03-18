@@ -6,6 +6,7 @@ Baduk / Weiqi
 * [Besogo](http://yewang.github.io/besogo/) - lightweight javascript go board and sgf editor
 
 Gomoku
+* [yihao-gomoku](https://gomoku.yjyao.com/) - Gomoku in HTML-5 with nice graphics
 * [Gobang AI](http://gobang.light7.cn/) - Javascript Gobang AI
 
 Shogi
