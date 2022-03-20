@@ -1,6 +1,6 @@
 # jsgames
-This list aims to collect mainly boardgames written in javascript.<br>
-If you know other sites / games which fit in this category feel free to add them to this list.
+I like to play a little game in between. So I thought I'd put up a little list of board games that are playable in the browser or programmed in JS.<br>
+If you know other sites / games which fit in this category feel free to add them here.
 
 Baduk / Weiqi
 * [Besogo](http://yewang.github.io/besogo/) - lightweight javascript go board and sgf editor
