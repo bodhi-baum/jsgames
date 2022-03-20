@@ -14,3 +14,7 @@ Shogi
 * [Carrotflakes](https://carrotflakes.github.io/carrot-shogi/dist/app.html) - Computer-Shogi on the Webbrowser
 * [GnuShogi](https://ymmtmdk.github.io/gnushogi-js/) - JavaScript port of GNU Shogi
 * [Shogimaru](https://shogimaru.com/) - Shogi GUI that runs on a browser
+
+Othello / Reversi
+
+* [Othello / Reversi](https://othello.blueedge.me/) - Othello aka Reversi in ReactJS
