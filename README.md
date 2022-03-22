@@ -15,7 +15,7 @@ Shogi
 * [GnuShogi](https://ymmtmdk.github.io/gnushogi-js/) - JavaScript port of GNU Shogi
 * [Shogimaru](https://shogimaru.com/) - Shogi GUI that runs on a browser
 
-Xiangqi Chinese Chess
+Xiangqi / Chinese Chess
 * [Xiangqi with AI](https://xiangqi-19724.herokuapp.com/) - Xiangqi with an AI
 * [JS Xiagqi Game](https://meldrumjon.github.io/Xiangqi/) -  Xiangqi Game
 * [Peipeixiansheng](https://peipeixiansheng.github.io/xiangqi/) - nice layout
