@@ -23,5 +23,7 @@ Xiangqi / Chinese Chess
 * 
 
 Othello / Reversi
-
 * [Othello / Reversi](https://othello.blueedge.me/) - Othello aka Reversi in ReactJS
+
+Contract Bridge
+* [Redouble](http://www.redouble.io/) - simple bridge game
